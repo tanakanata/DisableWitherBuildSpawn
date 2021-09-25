@@ -1,0 +1,4 @@
+name: DisableWitherBuildSpawn
+version: '${project.version}'
+main: com.github.tanakanata.disablewitherbuildspawn.DisableWitherBuildSpawn
+api-version: 1.17
