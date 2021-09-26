@@ -30,7 +30,7 @@ public final class DisableWitherBuildSpawn extends JavaPlugin implements Listene
             return;
         }
         event.setCancelled(true);
-        Bukkit.broadcastMessage("§e[DWBS]§cこのワールドでは召喚できません。");
+        Bukkit.broadcastMessage("§e[DWBS]§cこのワールドではウィザーを召喚できません。");
     }
 
 }
